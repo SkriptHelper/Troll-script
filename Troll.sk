@@ -1,0 +1,5 @@
+command /push <player>: # the command #
+  permission: op
+  permission message: &c&lHey! &cYou cant do that!
+  trigger: # triggers an event #
+    push the player upwards # Pushes the player up #
